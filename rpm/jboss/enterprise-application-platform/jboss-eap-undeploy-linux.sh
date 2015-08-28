@@ -54,7 +54,7 @@ else
     JBOSSCLI="$JBOSS_HOME/bin/jboss-cli.sh"
 fi
 
-# If the user doesnât provide values for JBOSS_SERVER and JBOSS_PORT, they will be set to defaults. 
+# If the user doesn't provide values for JBOSS_SERVER and JBOSS_PORT, they will be set to defaults. 
 
 if [ -z "$JBOSS_SERVER" ]
 then
@@ -63,7 +63,7 @@ fi
 
 if [ -z "$JBOSS_PORT" ]
 then
-    JBOSS_SERVER="9999"
+    JBOSS_PORT="9999"
 fi
 
 
