@@ -13,6 +13,7 @@ Under the respective product directory, you can simply create a descriptive fold
 Please name your automations with the OS (ex. *-linux or *-windows) for easy identification.
 
 I recommend adding an Apache License to the header of your atuomations:
+```
   #############################################################################
   # Copyright [yyyy] [author]
   #
@@ -28,7 +29,7 @@ I recommend adding an Apache License to the header of your atuomations:
   #   See the License for the specific language governing permissions and
   #   limitations under the License.
   #############################################################################  
-
+```
 Finally, please mention the system that you were integrating with in the check-in comments (ex. I was integrating with JBoss EAP 6.3 GA running on Linux)
 
 ## Disclaimer
