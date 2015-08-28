@@ -1,7 +1,7 @@
 # BMC-RLM-Community-Automations
 
 ## Purpose
-This is an open repository for anyone to share their BMC Release Lifecycle Management automations.
+This is an open repository for anyone to share their community developed BMC Release Lifecycle Management automations.
 
 ## Format Recommendations
 The repo is currently separated into two product directories:
